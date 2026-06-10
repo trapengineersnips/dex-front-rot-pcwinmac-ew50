@@ -1,4 +1,4 @@
-# 
+# Automático dex front-running bot scripts para Mac OS | Seguro dex front-running bot scripts para PC Windows. Con procesamiento por lotes y generación de señales — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
